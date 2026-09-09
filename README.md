@@ -77,7 +77,7 @@ python -m src.preprocess_data
 jupyter notebook notebooks/  # open Data_Review, Analyze_Raw, Analyze_Processed and run all cells
 
 # 3) Run modeling notebooks
-jupyter notebook Models/     # open Classification, Regression, Kmeans and run all cells
+jupyter notebook models/     # open Classification, Regression, Kmeans and run all cells
 
 # (Optional) Merge math/Portuguese records in R
 Rscript scripts/student_merge.R
